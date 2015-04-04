@@ -1,0 +1,15 @@
+{
+  "name": "LDAStore",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comp6028team17/LDAStore"
+  },
+  "license": "GNU GPLv2",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "morgan": "^1.5.2"
+  }
+}
